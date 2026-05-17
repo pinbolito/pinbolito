@@ -1,4 +1,6 @@
-## Hi there 👋
+## GREETINGS!
+![penguindancando](https://i.imgur.com/Jf93yK3.gif)
+# My name is tiago, also known as pinbolito, and this is my github account!
 
 <!--
 **pinbolito/pinbolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
